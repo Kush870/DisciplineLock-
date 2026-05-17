@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DisciplineLock</string>
+    <string name="accessibility_service_description">Used to detect when Instagram is opened in order to track usage and enforce time limits.</string>
+</resources>
